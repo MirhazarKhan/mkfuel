@@ -1,0 +1,8 @@
+{
+  "name": "Fluid Dynamics - Orange Splash",
+  "description": "WebGL fluid dynamics simulation inspired by an orange splash",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
